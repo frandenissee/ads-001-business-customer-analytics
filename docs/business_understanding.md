@@ -21,3 +21,44 @@ Este proyecto busca transformar los datos históricos de ventas en información 
 - Analizar la satisfacción de los clientes mediante las reseñas.
 - Evaluar el desempeño del proceso de entrega.
 - Detectar oportunidades para mejorar la retención de clientes.
+
+# Preguntas de Negocio
+
+Para orientar el análisis se definieron las siguientes preguntas de negocio, organizadas según las principales áreas de interés de una empresa de comercio electrónico.
+
+## Clientes
+
+- ¿Quiénes son los clientes con mayor valor para el negocio?
+- ¿Qué porcentaje de clientes realiza más de una compra?
+- ¿Cómo se distribuyen los clientes geográficamente?
+- ¿Existen patrones de compra según la ubicación del cliente?
+
+## Ventas
+
+- ¿Qué categorías de productos generan mayores ingresos?
+- ¿Cuál es el valor promedio de una compra?
+- ¿Cómo evolucionan las ventas a lo largo del tiempo?
+- ¿Existen períodos de alta o baja demanda?
+
+## Productos
+
+- ¿Cuáles son las categorías más vendidas?
+- ¿Qué productos presentan una mayor participación en las ventas?
+- ¿Existen categorías con alta demanda pero baja satisfacción?
+
+## Logística
+
+- ¿Cuál es el tiempo promedio de entrega?
+- ¿Qué estados presentan mayores retrasos?
+- ¿Se cumplen los tiempos estimados de entrega?
+
+## Satisfacción del Cliente
+
+- ¿Cuál es la distribución de las calificaciones otorgadas por los clientes?
+- ¿Existe relación entre el tiempo de entrega y la satisfacción?
+- ¿Influye el precio de la compra en la evaluación del cliente?
+
+## Negocio
+
+- ¿Qué estados generan mayores ingresos?
+- ¿Qué oportunidades de mejora pueden identificarse a partir del análisis de los datos?
